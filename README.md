@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @User0324Chethake
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning machine learning fundamentals 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in backend development, low level programming, machine learning and linux.😁 
+- 🌱 I’m currently learning Computer Science as a self taught developer.
+- 🚀 I'm looking forward to be familiar with all the concepts in programming 😇😇
+- 💞️ I’m looking to collaborate on any project that interests me. 
 - 📫 How to reach me Gmail --> csathmal24@gmail.com
 - 🤖🤖
 
