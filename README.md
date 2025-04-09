@@ -10,9 +10,18 @@ Hello 👋, I'm Chethaka. I'm a passionate software developer focued on innovati
 
 # 🛠️ Tech stack          
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+       alt="vscode" width="45" height="45" 
+       style="background-color:#1e1e1e; padding:8px; border-radius:10px;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
+       alt="bash" width="45" height="45" 
+       style="background-color:#2c2c2c; padding:8px; border-radius:10px;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
+       alt="php" width="45" height="45" 
+       style="background-color:#474A8A; padding:8px; border-radius:10px;"/>
 </p>
+
 
 # 🏹 Tools in my armory 
