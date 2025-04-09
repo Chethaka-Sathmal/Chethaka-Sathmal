@@ -31,7 +31,7 @@
   }
 </style>
 
-<div class="container">
+<div style="background: #eee; padding: 25px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <h1>Hi, I'm Chethaka! <span class="emoji">👋</span></h1>
   
   <p>
