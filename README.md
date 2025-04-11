@@ -37,7 +37,7 @@ Driven by a curiosity for learning and a desire to grow, I'm constantly explorin
 
 # 🛠️ Tech stack      
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;width: 100%">
   <img src="./assets/icons/tech%20stack/ts.png" alt="TypeScript" width="50" style="margin-right: 40px;">
   <img src="./assets/icons/tech%20stack/rn.png" alt="React Native" width="50" style="margin-right: 10px;">
   <img src="./assets/icons/tech%20stack/nextjs.png" alt="NextJS" width="50" style="margin-right: 10px;">
