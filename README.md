@@ -12,7 +12,7 @@ Driven by a curiosity for learning and a desire to grow, I'm constantly explorin
 
 # 🛠️ Tech stack      
 
-<div style="display: flex;flex-direction: row;justify-content: space-between; width:342px">
+<div style="display: flex;flex-direction: row">
   <img src="./assets/icons/tech%20stack/ts.png" alt="TypeScript" width="50">
   <img src="./assets/icons/tech%20stack/rn.png" alt="React Native" width="50">
   <img src="./assets/icons/tech%20stack/nextjs.png" alt="NextJS" width="50">
@@ -23,7 +23,7 @@ Driven by a curiosity for learning and a desire to grow, I'm constantly explorin
 
 # 🏹 Tools in my armory 
 
-<div style="display: flex;flex-direction: row;justify-content: space-between; width:570px">
+<div style="display: flex;flex-direction: row">
   <img src="./assets/icons/tools/github.png" alt="GitHub" width="50">
   <img src="./assets/icons/tools/vs_code.png" alt="VS Code" width="50">
   <img src="./assets/icons/tools/vercel.png" alt="TypeScript" width="50">
