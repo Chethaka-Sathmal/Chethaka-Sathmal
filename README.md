@@ -1,6 +1,6 @@
 # 🏙️ Introduction 
 
-Hello 👋, I'm Chethaka. I'm a passionate software developer focused on innovative user friendly solutions for various problems using technologies like React Native, NextJS, Flask and Docker 🐳. 
+Hello <img src="https://media.giphy.com/media/4GsKO3pORVVBjYTjEi/giphy.gif?cid=ecf05e47v3pkrv4z9s5cdpuw9v6qzbl48ta62ibg8icco3kc&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20px">, I'm Chethaka. I'm a passionate software developer focused on innovative user friendly solutions for various problems using technologies like React Native, NextJS, Flask and Docker 🐳. 
 
 🛐 My areas of interest: 
   * Web application development 
@@ -13,7 +13,7 @@ Driven by a curiosity for learning and a desire to grow, I'm constantly explorin
 # 🛠️ Tech stack      
 
 <div style="display: flex;flex-direction: row">
-  <img src="./assets/icons/tech%20stack/ts.png" alt="TypeScript" width="50">
+  <img src="./assets/icons/tech%20stack/ts.png" alt="TypeScript" width="50" style="margin-right: 100px">
   <img src="./assets/icons/tech%20stack/rn.png" alt="React Native" width="50">
   <img src="./assets/icons/tech%20stack/nextjs.png" alt="NextJS" width="50">
   <img src="./assets/icons/tech%20stack/tailwind.png" alt="Tailwind CSS" width="50">
