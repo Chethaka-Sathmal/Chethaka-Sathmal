@@ -33,4 +33,5 @@ Driven by a curiosity for learning and a desire to grow, I'm constantly explorin
   <img src="./assets/icons/tools/linux.png" alt="TypeScript" width="50">
   <img src="./assets/icons/tools/cursor.png" alt="TypeScript" width="50">
   <img src="./assets/icons/tools/figma.png" alt="TypeScript" width="50">
+  <img src="./assets/icons/tools/git.png" alt="TypeScript" width="50">
 </div>
